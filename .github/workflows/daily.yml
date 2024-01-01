@@ -1,7 +1,7 @@
 name: Daily Tasks
 
 on:
-  schedule:
+  # schedule:
     # Runs at 10:30 am UTC+8 every day
     # - cron: "30 2 * * *"
   workflow_dispatch:
